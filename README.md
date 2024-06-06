@@ -8,4 +8,4 @@ Steps I took.
 2. copy the code
 3. Run the code,
 4. Remove extra launcher scripts that duplicate things
-5. find the "launch meeting" button element
+5. find button elements that are promising 
