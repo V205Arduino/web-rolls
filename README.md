@@ -10,9 +10,8 @@ Currently, the only functioning one is the zoom one!
 check it out here:
 [https://hack.club/f1hn3e](https://hack.club/f1hn3e)
 
-Scroll down!!!
-![bluetooth tools menu](assets/Screenshot 2024-08-24 at 9.55.30 AM.png "Title")
-
+Scroll down!!! \
+![bluetooth tools menu](assets/Screenshot 2024-08-24 at 9.55.30 AM.png "Title")\
 ![rickroll](assets/Screenshot 2024-08-24 at 9.55.24 AM.png "Title")
 
 Steps I took.
