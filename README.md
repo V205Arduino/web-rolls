@@ -11,8 +11,8 @@ check it out here:
 [https://hack.club/f1hn3e](https://hack.club/f1hn3e)
 
 Scroll down!!! \
-![zoom](https://github.com/V205Arduino/web-rolls/blob/main/assets/zoom.png "Title")\
-![rickroll](https://github.com/V205Arduino/web-rolls/blob/main/assets/zoom-rickroll.png "Title")
+![zoom](https://github.com/V205Arduino/web-rolls/raw/main/assets/zoom.png "Title")\
+![rickroll](https://github.com/V205Arduino/web-rolls/raw/main/assets/zoom-rickroll.png "Title")
 
 Steps I took.
 1. Inspect element
